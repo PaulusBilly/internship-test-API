@@ -1,6 +1,6 @@
-# Viewdata API
+# Springboot API
 
-Spring Boot service that exposes the seeded contents of `viewData.json` through a single REST endpoint.
+Spring Boot service that exposes the seeded contents of `viewData.json` through a single REST endpoint for my internship test.
 
 ## Prerequisites
 
@@ -88,3 +88,7 @@ curl -s http://localhost:8080/api/view-data | jq
 ```bash
 ./mvnw test
 ```
+
+# IT Logical Test Programming
+
+The answer are inside of the folder `LogicalTestAnswer`
