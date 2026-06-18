@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 9999,
+      "productID": "TEST001",
+      "productName": "Test Product",
+      "amount": "5000",
+      "customerName": "Test Customer",
+      "status": 0,
+      "transactionDate": "2023-01-01 12:00:00",
+      "createBy": "tester",
+      "createOn": "2023-01-01 12:00:00"
+    },
+    {
+      "id": 10000,
+      "productID": "TEST002",
+      "productName": "Test Product 2",
+      "amount": "7500.50",
+      "customerName": "Test Customer 2",
+      "status": 1,
+      "transactionDate": "2023-01-02 14:30:00",
+      "createBy": "tester2",
+      "createOn": "2023-01-02 14:30:00"
+    }
+  ],
+  "status": [
+    { "id": 0, "name": "SUCCESS" },
+    { "id": 1, "name": "FAILED" },
+    { "id": 2, "name": "PENDING" },
+    { "id": 3, "name": "CANCELLED" }
+  ]
+}
