@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1372,
+      "productID": "10001",
+      "productName": "Test 1",
+      "amount": "1000",
+      "customerName": "abc",
+      "status": 0,
+      "transactionDate": "2022-07-10 11:14:52",
+      "createBy": "abc",
+      "createOn": "2022-07-10 11:14:52"
+    }
+  ],
+  "status": [
+    { "id": 0, "name": "SUCCESS" },
+    { "id": 1, "name": "FAILED" }
+  ]
+}
